@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+# Prueba con noindex en cada HTML. Se permite rastrear para que se lea esa directiva.
